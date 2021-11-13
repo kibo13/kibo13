@@ -3,7 +3,7 @@
 
 **About me**
 
-- 👨‍💻 I’m currently working as a back-end developer at **[nsk.kz](https://nsk.kz/)**
+- 👨‍💻 I’m currently working as a back-end developer for an **[insurance company](https://nsk.kz/)**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate in a team on interesting projects
 - 💼 My projects are available at **[kibo13.github.io](https://github.com/kibo13?tab=repositories)**
@@ -11,6 +11,7 @@
 
 **Languages and Tools:**
 
+<code><img height="25" src="./assets/vscode.png"></code>
 <code><img height="25" src="./assets/html.png"></code>
 <code><img height="25" src="./assets/css.png"></code>
 <code><img height="25" src="./assets/js.png"></code>
